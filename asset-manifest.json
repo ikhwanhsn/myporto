@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/myporto/static/css/main.9068728b.css",
-    "main.js": "/myporto/static/js/main.3add9917.js",
+    "main.css": "/myporto/static/css/main.e6185232.css",
+    "main.js": "/myporto/static/js/main.3727577c.js",
     "static/media/profil.jpg": "/myporto/static/media/profil.2046de6ed8ae65ff9627.jpg",
     "static/media/ecommerceapp.jpg": "/myporto/static/media/ecommerceapp.3b35d348a489b48c3821.jpg",
     "static/media/bootstrap.jpg": "/myporto/static/media/bootstrap.60f5055ad652c4fcbfb4.jpg",
     "static/media/socialmediaapp.jpg": "/myporto/static/media/socialmediaapp.7b1fe7d494eeda69a91c.jpg",
     "index.html": "/myporto/index.html",
-    "main.9068728b.css.map": "/myporto/static/css/main.9068728b.css.map",
-    "main.3add9917.js.map": "/myporto/static/js/main.3add9917.js.map"
+    "main.e6185232.css.map": "/myporto/static/css/main.e6185232.css.map",
+    "main.3727577c.js.map": "/myporto/static/js/main.3727577c.js.map"
   },
   "entrypoints": [
-    "static/css/main.9068728b.css",
-    "static/js/main.3add9917.js"
+    "static/css/main.e6185232.css",
+    "static/js/main.3727577c.js"
   ]
 }
